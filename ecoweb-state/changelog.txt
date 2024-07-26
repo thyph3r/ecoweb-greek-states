@@ -1,3 +1,0 @@
-# Ecoweb Greek Shipping States
-#### 6.6.1
-* Security Fix: Improved code security enforcement in link URL
